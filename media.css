@@ -1,0 +1,344 @@
+@media(min-width:992px) and (max-width:1199px) {
+    .slicknav_menu {
+        display: none;
+    }
+    .logo {
+        position: inherit;
+    }
+    .logo > img {
+        left: -5px;
+        position: absolute;
+        top: 0;
+        width: 22%;
+    }
+    .nav_area {
+        padding-left: 15%;
+    }
+    .nav_area_bottom {
+        margin-top: 17px;
+    }
+    ul#menu {
+        margin-bottom: 11px;
+    }
+    .nav_area_top_two {
+        padding-left: 48px;
+        padding-right: 8px;
+    }
+    .nav_area_top_one h1::after {
+        left: 217px;
+    }
+    .nav_area_top_one h1 {
+        padding-left: 64px;
+    }
+    .slider_text > h1 {
+        font-size: 84px;
+    }
+    .car_image_btm_txt > h2 {
+        font-size: 61px;
+    }
+    .form_one h3 {
+        font-size: 32px;
+        padding: 10px 15px 0;
+    }
+    .form_one_pad > input[type="submit"] {
+        padding: 26px 117px;
+    }
+    .car_image_up > img {
+        margin-right: 13px;
+    }
+    .car_image_btm > img {
+        margin-right: 13px;
+    }
+    .red_txt h5 {
+        font-size: 24px;
+    }
+    .form_one p {
+        padding: 0 24px 5px;
+    }
+    .form_two > h3 {
+        font-size: 24px;
+        padding: 51px 6px 0;
+    }
+    .form_two > p {
+        font-size: 13px;
+    }
+    .slider_text {
+        padding-bottom: 143px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .slicknav_menu {
+        display: none;
+    }
+    .slider_text > h1 {
+        font-size: 57px;
+        padding-top: 216px;
+    }
+    .bg > li {
+        font-size: 15px;
+    }
+    .middle_txt h2 {
+        font-size: 27px;
+        padding: 21px 0 35px;
+    }
+    .car_image_up > img {
+        margin-right: 9px;
+    }
+    .car_image_btm > img {
+        margin-right: 9px;
+    }
+    .car_image_up {
+        margin-top: 22px;
+    }
+    .car_image_btm_txt > h2 {
+        font-size: 47px;
+        padding-top: 10px;
+    }
+    .car_image_btm_txt > p {
+        font-size: 20px;
+        line-height: 39px;
+        padding-top: 11px;
+    }
+    .form_one h3 {
+        font-size: 21px;
+    }
+    .form_one p {
+        font-size: 9px;
+        padding: 0 36px;
+    }
+    .form_one_pad {
+        padding: 0 12px;
+    }
+    #name2.form-control {
+        height: 34px;
+    }
+    #phone.form-control {
+        height: 34px;
+    }
+    #mail.form-control {
+        height: 34px;
+    }
+    #passcode.form-control {
+        height: 34px;
+    }
+    .form_one_pad > input[type="submit"] {
+        padding: 26px 100px;
+    }
+    .form_two > h3 {
+        font-size: 18px;
+        padding: 34px 6px 0;
+    }
+    .form_two > p {
+        font-size: 9px;
+        padding: 0 54px 37px;
+    }
+    .red_txt h5 {
+        font-size: 17px;
+        padding: 13px 0;
+    }
+    .small_logo > img {
+        width: 55%;
+    }
+    .small_logo > img {
+        padding-top: 31px;
+    }
+    .copyright_txt > p {
+        font-size: 8px;
+        padding-top: 22px;
+    }
+    .footer_list > li {
+        font-size: 11px;
+        padding-bottom: 7px;
+    }
+    .footer_contact > li > a {
+        font-size: 11px;
+        padding-left: 7px;
+    }
+    .footer_contact {
+        padding-top: 25px;
+    }
+    .footer_list {
+        padding-top: 41px;
+    }
+    .logo {
+        left: -7px;
+        top: 12px;
+        width: 24%;
+    }
+    .logo > img {
+        width: 100%;
+    }
+    .nav_area_top_one h1 {
+        font-size: 21px;
+    }
+    .nav_area {
+        padding-left: 21%;
+    }
+    .nav_area_top_one h1::after {
+        left: 148px;
+    }
+    .form-control {
+        width: 86%;
+    }
+    .form3 > input {
+        background-repeat: no-repeat;
+        background-size: 86% 100%;
+        height: 31px;
+    }
+    .nav_area_top_two {
+        padding-right: 0px;
+    }
+    .nav_area_top_three img {
+        margin-bottom: 4px;
+        padding-right: 5px;
+        width: 4%;
+    }
+    .nav_area_top_three h5 {
+        font-size: 12px;
+        padding-left: 0;
+    }
+    .nav_area_top_three h3 {
+        font-size: 7px;
+        padding-top: 20px;
+    }
+    ul#menu li {
+        font-size: 9px;
+    }
+    ul#menu {
+        margin-bottom: 8px;
+    }
+    .nav_area_bottom {
+        margin-top: 38px;
+    }
+}
+
+@media(min-width:320px) and (max-width:767px) {
+    .slicknav_menu {
+        display: block;
+    }
+    .nav_area_bottom {
+        display: none;
+    }
+    .logo {
+        position: inherit;
+    }
+    .logo > img {
+        width: 100%;
+    }
+    .nav_area {
+        padding-left: 0;
+    }
+    .nav_area_top_one {
+        float: none;
+    }
+    .nav_area_top_two {
+        float: none;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .nav_area_top_one h1 {
+        font-size: 26px;
+        margin-top: 27px;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+    .nav_area_top_one h1::after {
+        display: none;
+    }
+    .nav_area_top_three h5 {
+        font-size: 26px;
+        font-weight: 500;
+        padding-left: 0;
+        text-align: center;
+    }
+    .form-control {
+        font-size: 12px;
+        height: 35px;
+    }
+    .form3 > input {
+        padding: 14px 144px;
+    }
+    .form3 {
+        text-align: center;
+    }
+    .nav_area_top_three h3 {
+        font-size: 15px;
+        padding-top: 4px;
+        text-align: center;
+    }
+    .slider_text > h1 {
+        font-size: 56px;
+        padding-top: 82px;
+    }
+    .bg > li {
+        display: none;
+    }
+    .middle_txt h2 {
+        font-size: 26px;
+        padding: 15px 0 36px;
+    }
+    .car_image_up > img {
+        margin-bottom: 20px;
+        margin-right: 0;
+        width: 100%;
+    }
+    .car_image_up {
+        margin-top: 2px;
+    }
+    .col-sm-8 {
+        padding-right: 0;
+    }
+    .car_image_btm > img {
+        margin-bottom: 19px;
+        margin-right: 0;
+        margin-top: 2px;
+        width: 100%;
+    }
+    .car_image_btm_txt > h2 {
+        font-size: 45px;
+        padding-top: 0;
+        text-align: center;
+    }
+    .car_image_btm_txt > p {
+        font-size: 18px;
+        line-height: 34px;
+        padding-right: 0;
+        padding-top: 14px;
+    }
+    .col-sm-4 {
+        padding-right: 15px;
+    }
+    .form_one_pad > input[type="submit"] {
+        width: 100%;
+        padding: 26px 0;
+    }
+    .red_txt h5 {
+        font-size: 21px;
+        padding: 5px 0;
+    }
+    .small_logo {
+        text-align: center;
+    }
+    .small_logo > img {
+        padding-top: 21px;
+    }
+    .copyright_txt > p {
+        font-size: 13px;
+        padding-top: 16px;
+        text-align: center;
+    }
+    .footer_list {
+        padding-top: 12px;
+    }
+    .footer_contact {
+        padding-top: 4px;
+    }
+    .footer_list > li {
+        font-size: 14px;
+    }
+    .footer_contact > li > a {
+        font-size: 14px;
+    }
+}
